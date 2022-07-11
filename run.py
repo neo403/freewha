@@ -55,9 +55,9 @@ def main():
   \__/\  / |___|  (____  /
        \/       \/     \/ v0.2
 
-        * Author: RizkyDev
-        * Github: https://github.com/hekelpro
-        * Thanks: All Member XiuzCode
+        * Author: XneoDev
+        * Github: https://github.com/JaeXploit
+        * Thanks: All Kawan ku
 """)
 	name = input("[!] Name domain: ").replace(".","-").replace(" ","")
 	action, option = collect_domain()
